@@ -1,0 +1,51 @@
+/** Page-wide selector **/
+html {
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    background-color: #f3dede;
+}
+/** Body selector **/
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #d77bba;
+    padding: 20px, 20px, 20px, 20px;
+    border: 3px solid black;
+}
+/** Element seletor **/
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 20px 0;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+p,
+li {
+    font-size: 12px;
+    line-height: 3;
+    letter-spacing: 1px;
+    padding: 0 5px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+/** ID selector **/
+#id1 {
+    color: yellow;
+}
+/** Class selector **/
+.class1 {
+    color: blue;
+}
+/** Attribute selector **/
+
+/** Psuedo-class selector **/
+a:hover {
+    color:chartreuse;
+}
