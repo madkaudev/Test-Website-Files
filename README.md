@@ -1,2 +1,3 @@
-# Test-Website-Files
-Just the current set up of my website. No clue what I'll do with it at this current moment.
+# MadKau.com
+Current basic functionality of MadKau.com prototype. Basic scripting, styling, and index. Image clickability and basic user input exists. 
+Current Version: 0.1
